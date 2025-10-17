@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 /.metadata/
+=======
+# Eclipse / IDE
+.metadata/
+bin/
+*.class
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+>>>>>>> branch 'main' of https://github.com/KarthikSanthosh693/CarDex.git
