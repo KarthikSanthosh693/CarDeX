@@ -1,0 +1,10 @@
+# Eclipse / IDE
+.metadata/
+bin/
+*.class
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
