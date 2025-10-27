@@ -4,7 +4,6 @@ CARDEX is a Java-based application designed to manage car inventory and customer
 It allows users to add, update, delete, and search car details and maintain customer information with purchase history.
 The system improves accuracy, speed, and data management in car dealerships.
 
-
 Features
 
 Add, update, delete, and view car details
@@ -40,6 +39,7 @@ To provide an easy-to-use interface for interacting with the data.
 To demonstrate Java programming, JDBC, and database integration in a real-world context.
 
 ⚙️ Key Features
+
 🧩 Car Management
 
 Add new car details including model, brand, year, color, and price.
