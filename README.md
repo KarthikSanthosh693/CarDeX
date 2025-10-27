@@ -99,7 +99,16 @@ Restricted access for administrative actions.
 Simple console-based interface (default version).
 
 Menu-driven navigation for user-friendly operation.
-
+Technologies Used
+Category	Technology
+Programming Language	Java (JDK 8 or later)
+Database	MySQL
+Connectivity	JDBC
+IDE	Eclipse / IntelliJ IDEA
+Version Control	Git and GitHub
+Build Tool (optional)	Maven / Gradle
+Testing	JUnit
+OS Compatibility	Windows / Linux / macOS
 Clear instructions and structured display for beginners.
 
 (Optional) GUI version using Swing or JavaFX for graphical interaction.
