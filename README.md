@@ -128,6 +128,8 @@ Provides a foundation for GUI or web-based versions.
 
 💡 Future Enhancements
 
+Future Enhancements
+
 Develop a web-based interface using Spring Boot and React.
 
 Implement authentication and user roles (admin/staff).
@@ -143,6 +145,11 @@ Build Android companion app for on-the-go access.
 Introduce AI-based recommendation (suggest similar cars).
 
 Add email and SMS notifications after purchase.
+
+AI powered search and filters
+
+AI powered lead scoring
+
 
 🧾 Conclusion
 
